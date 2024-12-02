@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **@NIC Onside APSAC**
 
-- 🌱 I’m currently learning **API Creation**
+- 🌱 I’m on journey to become a respectfull **Mobile App Developer (Full-Stack)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShaikBilal-Android](https://github.com/ShaikBilal-Android)
 
